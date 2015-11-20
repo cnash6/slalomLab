@@ -24,7 +24,7 @@ rm -r node_modules
 #Cloud Foundry Deployment
 
 CF_API_ENDPOINT="api.run.pivotal.io"
-CF_USER="cnash3712@slalom.com"
+CF_USER="cnash3712@gmail.com"
 CF_ORG="cnash-org"
 if [ $CF_SPACE ]; then
 	CF_SPACE=$CF_SPACE
